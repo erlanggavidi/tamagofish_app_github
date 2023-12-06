@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "964509505090",
+    "firebase_url": "https://tamago-ta-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tamago-ta",
+    "storage_bucket": "tamago-ta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964509505090:android:3e9b1afe23ef8ee087bfdb",
+        "android_client_info": {
+          "package_name": "com.example.tamagofish_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ6RvTUYm7wwq-JNYV_x32aNK_ZPOQW88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
